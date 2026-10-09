@@ -545,3 +545,8 @@ button:focus-visible {
   font-size: 13px;
   color: #94A3B8;
 }
+.logo img {
+  width: 80px;
+  height: auto;
+  margin-left: 10px;
+}
