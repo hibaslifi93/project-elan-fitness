@@ -20,4 +20,3 @@ Après-midi: j'ai fait la page Contact avec le formulaire, j'ai arrangé tout le
 
 
 *Difficultés rencontrées:* Le manque de temps et le fait que j'ai dû recommencer car je n'avais pas compris certaines choses.
----
